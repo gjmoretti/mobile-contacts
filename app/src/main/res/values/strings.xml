@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgendaMobile</string>
+    <string name="title_activity_detalhe">Contato</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="search_hint">Digite parte do nome ou telefone</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
+

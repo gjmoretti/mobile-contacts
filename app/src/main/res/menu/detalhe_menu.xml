@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+      <item
+        android:id="@+id/SalvarContato"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_accept"
+        android:title="Salvar"/>
+      
+        <item
+        android:id="@+id/RemoverContato"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_discard"
+        android:title="Remover"/>
+  
+</menu>

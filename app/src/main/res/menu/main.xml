@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+      <item
+        android:id="@+id/adicionarContato"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_new"
+        android:title="Adicionar"/>
+      
+        <item
+        android:id="@+id/pesqContato"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_search"
+        android:title="Pesquisar"/>
+
+    <item
+        android:id="@+id/perfil"
+        android:showAsAction="always"
+        android:title="Perfil"/>
+  
+</menu>
